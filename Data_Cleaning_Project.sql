@@ -1,6 +1,6 @@
 ############################################ DATA CLEANING PROJECT 1 #############################################
 
--- Exploring the Data employee_demographicslayoffs_staging2layoffs_staging2layoffs_staging
+-- Exploring the Data
 
 SELECT *
 FROM layoffs ;
