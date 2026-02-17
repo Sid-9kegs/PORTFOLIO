@@ -37,13 +37,14 @@ Sales analysis by type/roast/country/top customers. Pivot tables + KPIs.
 
 ### Bike Sales Dashboard (Excel)
 Customer demographics, income, commute distance analysis.
-![Dashboard](bike-sales-project.png)
+![Dashboard](bike_sales_project.png)
 
 ### Professional Survey Breakdown (Power BI)
 Job titles, languages, difficulty ratings, work-life balance.
 ![Dashboard](survey_breakdown.png)
 
-### Layoffs Data Cleaning (MYSQL)
-Data cleaning prep + analysis of company layoffs.
+### Layoffs Data Projects (MYSQL)
+Data cleaning Project
 ![Cleaning](layoffs_cleaning_project.png)
+Exploratory Data Analysis
 ![Analysis](layoffs_analysis_project.png)
