@@ -46,5 +46,7 @@ Job titles, languages, difficulty ratings, work-life balance.
 ### Layoffs Data Projects (MYSQL)
 Data cleaning Project
 ![Cleaning](layoffs_cleaning_project.png)
+
+
 Exploratory Data Analysis
 ![Analysis](layoffs_analysis_project.png)
