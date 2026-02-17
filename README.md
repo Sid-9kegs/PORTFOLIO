@@ -14,17 +14,36 @@ Collection of projects in **Excel**, **Tableau**, **Power BI**, **SQL**, **Pytho
 
 
 
-## Python Projects
+## Python Code
 
-### 1. Python Bank Account (OOP)
-OOP BankAccount class with deposit/withdraw/transfer + error handling.
+### Bank Account OOP Class
+Object-oriented banking system with deposit/withdraw/transfer + error handling.
 ![Demo](oop_project_scr.jpg)
 
-## Data Projects
+### Mad Libs Game
+Interactive string formatting game using user input.
+![Demo](madlib_game.jpg)
 
-### 1. Coffee Sales Dashboard (Excel)
-Analyzed sales by coffee type, roast, country, top customers. Pivot tables + KPIs.
+### Number Guessing Game
+Random number generator + try/except logic.
+![Demo](guess_the_number.jpg)
+
+## Data Analytics
+
+### Coffee Sales Dashboard (Excel)
+Sales analysis by type/roast/country/top customers. Pivot tables + KPIs.
 ![Dashboard](coffee_p_scr.jpg)
-[Download Excel](Excel/coffeeOrdersData.xlsx)
+[Download](Excel/coffeeOrdersData.xlsx)
 
+### Bike Sales Dashboard (Excel)
+Customer demographics, income, commute distance analysis.
+![Dashboard](bike-sales-project.jpg)
 
+### Professional Survey Breakdown (Power BI)
+Job titles, languages, difficulty ratings, work-life balance.
+![Dashboard](survey_breakdown.jpg)
+
+### Layoffs Data Cleaning (MYSQL)
+Data cleaning prep + analysis of company layoffs.
+![Cleaning](layoffs_cleaning_project.jpg)
+![Analysis](layoffs_analysis_project.jpg)
