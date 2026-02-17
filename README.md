@@ -22,11 +22,11 @@ Object-oriented banking system with deposit/withdraw/transfer + error handling.
 
 ### Mad Libs Game
 Interactive string formatting game using user input.
-![Demo](madlib_game.jpg)
+![Demo](madlib_game.png)
 
 ### Number Guessing Game
 Random number generator + try/except logic.
-![Demo](guess_the_number.jpg)
+![Demo](guess_the_number.png)
 
 ## Data Analytics
 
@@ -37,13 +37,13 @@ Sales analysis by type/roast/country/top customers. Pivot tables + KPIs.
 
 ### Bike Sales Dashboard (Excel)
 Customer demographics, income, commute distance analysis.
-![Dashboard](bike-sales-project.jpg)
+![Dashboard](bike-sales-project.png)
 
 ### Professional Survey Breakdown (Power BI)
 Job titles, languages, difficulty ratings, work-life balance.
-![Dashboard](survey_breakdown.jpg)
+![Dashboard](survey_breakdown.png)
 
 ### Layoffs Data Cleaning (MYSQL)
 Data cleaning prep + analysis of company layoffs.
-![Cleaning](layoffs_cleaning_project.jpg)
-![Analysis](layoffs_analysis_project.jpg)
+![Cleaning](layoffs_cleaning_project.png)
+![Analysis](layoffs_analysis_project.png)
