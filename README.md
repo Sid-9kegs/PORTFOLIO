@@ -33,7 +33,7 @@ Random number generator + try/except logic.
 ### Pizza Sales Dashboard (Excel)
 Sales analysis by category/pizza size/type/best selling. Pivot tables + KPIs.
 ![Dashboard](pizza_sales.png)
-[Download](Excel/pizza_sales%20excel%20file.xlsx)
+[Download](Excel/pizza_sales_project.xlsx)
 
 ### Coffee Sales Dashboard (Excel)
 Sales analysis by type/roast/country/top customers. Pivot tables + KPIs.
